@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\unakho\\.vscode\\CsharpCalculator\\CsharpCalculator.csproj": {}
+    "C:\\Users\\unakho\\.vscode\\CsharpCalculator\\CsharpCalculator.csproj": {}
   },
   "projects": {
-    "c:\\Users\\unakho\\.vscode\\CsharpCalculator\\CsharpCalculator.csproj": {
+    "C:\\Users\\unakho\\.vscode\\CsharpCalculator\\CsharpCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\unakho\\.vscode\\CsharpCalculator\\CsharpCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\unakho\\.vscode\\CsharpCalculator\\CsharpCalculator.csproj",
         "projectName": "CsharpCalculator",
-        "projectPath": "c:\\Users\\unakho\\.vscode\\CsharpCalculator\\CsharpCalculator.csproj",
+        "projectPath": "C:\\Users\\unakho\\.vscode\\CsharpCalculator\\CsharpCalculator.csproj",
         "packagesPath": "C:\\Users\\unakho\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\unakho\\.vscode\\CsharpCalculator\\obj\\",
+        "outputPath": "C:\\Users\\unakho\\.vscode\\CsharpCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -82,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
