@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpCalculator", "CsharpCalculator.csproj", "{5A5E07B1-5EC3-419C-9C91-82C295EB7976}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A5E07B1-5EC3-419C-9C91-82C295EB7976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5E07B1-5EC3-419C-9C91-82C295EB7976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5E07B1-5EC3-419C-9C91-82C295EB7976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5E07B1-5EC3-419C-9C91-82C295EB7976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B5A0AB7-6FB8-4842-B22F-00FC1940EAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5A0AB7-6FB8-4842-B22F-00FC1940EAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5A0AB7-6FB8-4842-B22F-00FC1940EAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5A0AB7-6FB8-4842-B22F-00FC1940EAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BF33FEF-4E2F-4334-8E5B-88EA11509F8C}
+	EndGlobalSection
+EndGlobal
